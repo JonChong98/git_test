@@ -1,1 +1,3 @@
 Hello new file
+
+Testing writing a commit using VSCode
